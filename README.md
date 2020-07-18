@@ -19,5 +19,5 @@ The following animation shows obstacles (in yellow) and road (in green)
 
 
 ## Closing thoughts
-1. Tracking can used to keep a record of obstacles
-2. Object detection can further aid in determining the type of obstacle (car, curb, traffic signal, etc.)
+1. Tracking can used to keep a record of obstacles throughout all the point clouds.
+2. 3D Object detection can further aid in determining the type of obstacle (car, traffic signal pole, etc.).
