@@ -11,6 +11,7 @@ The goal of this project is to use to various algorithms on Point Cloud data suc
 
 ## Pipeline
 
+![alt text](assets/flowchart_2.png)
 
 ## Results
 The following animation shows obstacles (in yellow) and road (in green)
