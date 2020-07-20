@@ -16,6 +16,7 @@ The goal of this project is to use to various algorithms on Point Cloud data suc
 ## Results
 The following animation shows obstacles (in yellow) and road (in green)
 
+![alt text](assets/animation.gif)
 
 
 ## Closing thoughts
