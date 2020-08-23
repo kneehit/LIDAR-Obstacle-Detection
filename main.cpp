@@ -26,6 +26,7 @@ struct Color
 		: r(setR), g(setG), b(setB)
 	{}
 };
+
 struct Box
 {
 	float x_min;
